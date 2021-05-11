@@ -40,7 +40,7 @@ PRODUCT_NAME := fluid_instantnoodle
 PRODUCT_DEVICE := instantnoodle
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := IN2013
+PRODUCT_MODEL := OnePlus8
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
