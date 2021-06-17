@@ -47,3 +47,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=OnePlus8 \
     PRODUCT_NAME=OnePlus8
+
+PRODUCT_PRODUCT_PROPERTIES += \
+  ro.fluid.maintainer=Rounak1619 \
+  ro.fluid.cpu=SDM865
